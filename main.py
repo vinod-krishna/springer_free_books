@@ -72,3 +72,4 @@ print_summary(books, invalid_categories, args)
 download_books(books, folder, patches)
 
 print('\nFinish downloading.')
+print("Thanks for subscribing")
